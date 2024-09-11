@@ -2,7 +2,7 @@ name: Reddit API Kenya
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
 
 jobs:
   get_and_upload_reddit_data:
