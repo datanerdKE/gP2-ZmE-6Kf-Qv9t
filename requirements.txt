@@ -8,3 +8,4 @@ pyarrow
 db-dtypes
 beautifulsoup4
 tqdm
+jupyter
