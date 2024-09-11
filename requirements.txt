@@ -1,6 +1,10 @@
+praw
+nbconvert
 google-cloud-bigquery
 numpy
 pandas
 requests
 pyarrow
 db-dtypes
+beautifulsoup4
+tqdm
